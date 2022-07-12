@@ -55,5 +55,11 @@ t.forward(70)
 t.backward(35)
 t.right(90)
 degree=15
+for i in range(0,24):
+    t.forward(35)
+    t.backward(35)
+    t.right(15)
+    t.forward(35)
+    t.backward(35)
 
 turtle.done()
