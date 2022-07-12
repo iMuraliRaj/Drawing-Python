@@ -47,5 +47,7 @@ t.penup()
 t.goto(0, -39)
 t.pendown()
 r = 35
+t.color("blue")
+t.circle(r)
 
 turtle.done()
