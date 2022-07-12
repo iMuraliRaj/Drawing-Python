@@ -43,6 +43,8 @@ t.right(90)
 t.forward(400)
 t.end_fill()
 
-
+t.penup()
+t.goto(0, -39)
+t.pendown()
 
 turtle.done()
