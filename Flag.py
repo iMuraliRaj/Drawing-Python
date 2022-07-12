@@ -17,4 +17,8 @@ t.pendown()
 t.color("orange")
 t.begin_fill()
 
+t.forward(400)
+t.right(90)
+
+
 turtle.done()
