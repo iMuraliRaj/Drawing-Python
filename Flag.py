@@ -52,6 +52,8 @@ t.circle(r)
 
 t.left(90)
 t.forward(70)
+t.backward(35)
+t.right(90)
 
 
 turtle.done()
