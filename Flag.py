@@ -46,5 +46,6 @@ t.end_fill()
 t.penup()
 t.goto(0, -39)
 t.pendown()
+r = 35
 
 turtle.done()
