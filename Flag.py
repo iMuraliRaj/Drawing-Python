@@ -26,6 +26,23 @@ t.right(90)
 t.forward(70)
 t.end_fill()
 
+t.color("black")
+t.backward(140)
+t.right(90)
+t.forward(400)
+t.left(90)
+t.forward(70)
+t.color("green")
+t.begin_fill()
+t.backward(140)
+t.left(90)
+t.forward(400)
+t.right(90)
+t.forward(70)
+t.right(90)
+t.forward(400)
+t.end_fill()
+
 
 
 turtle.done()
