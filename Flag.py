@@ -50,4 +50,8 @@ r = 35
 t.color("blue")
 t.circle(r)
 
+t.left(90)
+t.forward(70)
+
+
 turtle.done()
