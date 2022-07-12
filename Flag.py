@@ -23,6 +23,9 @@ t.forward(70)
 t.right(90)
 t.forward(400)
 t.right(90)
+t.forward(70)
+t.end_fill()
+
 
 
 turtle.done()
